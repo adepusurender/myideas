@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+.DS_Store
+
+# Generated media and transcript outputs
+*.mp4
+*.srt
+*.txt
+!requirements.txt
+*.docx
+PT_40/
+
+# Local environment files
+.env
+.venv/
